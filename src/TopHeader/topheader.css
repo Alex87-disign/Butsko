@@ -1,0 +1,27 @@
+.topheader{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 18px 0;
+    justify-items: center;
+}
+.about_me,.email,.phone{
+    border-left: 1px solid green;
+    padding: 35px;
+    
+}
+@media screen and (max-width:768px){
+    .topheader{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 18px 0;
+        justify-items: center;
+    }
+    .about_me,.email,.phone{
+        border-left: none;
+        padding: 0px;
+        
+    }
+    .logo{
+        border-bottom: 1px solid black;
+    }
+}

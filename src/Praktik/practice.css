@@ -1,0 +1,11 @@
+li{
+    text-align: left;
+}
+.articles p{
+    text-align: left;
+    padding: 15px;
+}
+.articles{
+    border-left: 1px solid black;
+    margin: 10px;
+}

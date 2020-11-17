@@ -1,0 +1,66 @@
+.App-header {
+  background: #8F9779;
+  color: #71795B;
+  background: linear-gradient(to bottom, #8F9779 0%, #80886A 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #8F9779), color-stop(100%, #80886A));
+  background: -webkit-linear-gradient(top, #8F9779 0%, #80886A 100%);
+  background: -moz-linear-gradient(top, #8F9779 0%, #80886A 100%);
+  background: -o-linear-gradient(top, #8F9779 0%, #80886A 100%);
+  background: -ms-linear-gradient(top, #8F9779 0%, #80886A 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8F9779', endColorstr='#80886A', GradientType=0);
+  border: 1px solid #71795B;
+  text-shadow: 0 1px 0 #9EA688;
+  -webkit-text-shadow: 0 1px 0 #9EA688;
+  -moz-text-shadow: 0 1px 0 #9EA688;
+  box-shadow: inset 0 1px 0 #9EA688;
+  -webkit-box-shadow: inset 0 1px 0 #9EA688;
+  -moz-box-shadow: inset 0 1px 0 #9EA688;
+  
+    width: 100%;
+    height: 100%;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   
+    cursor: pointer;
+    /* position:fixed; */
+/* top:0px; */
+    
+  }
+ /* ul{
+
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+  } */
+  /* li ul{
+    position: absolute; 
+    display: none; /* Скрываем подменю */
+     /* margin-left: -80px; 
+    margin-top: 0em; 
+   }  */
+   /* li:hover ul { 
+    display: block; /* При выделении пункта курсором мыши отображается подменю */
+    
+   /* } */ 
+   /* ul li a:hover{
+    color:rgb(248, 243, 241);
+    text-decoration: underline;
+    text-transform: uppercase;
+    
+   } */
+   /* .wrapper2-1 ul{
+    margin-left: -13px;
+    margin-top: 0em; 
+   }
+   */
+
+  .wrapper_4:hover,.wrapper_3:hover,.wrapper_2:hover,.wrapper_1:hover{
+    color: rgb(248, 61, 4);
+  }
+  .active{
+    text-decoration: none;
+    color: blanchedalmond;
+  }
+  

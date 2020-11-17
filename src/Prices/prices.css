@@ -1,0 +1,17 @@
+td{
+    border: 1px solid black;
+    padding: 15px;
+}
+tr{
+    border: 1px solid black;
+    padding: 15px;
+}
+.prices{
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+}
+/* p{
+    text-align: center;
+    border: 1px solid black;
+} */
