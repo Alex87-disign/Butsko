@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Butsko/static/css/main.86c3638e.chunk.css",
+    "main.js": "/Butsko/static/js/main.191918d7.chunk.js",
+    "main.js.map": "/Butsko/static/js/main.191918d7.chunk.js.map",
+    "runtime-main.js": "/Butsko/static/js/runtime-main.5d03c7a8.js",
+    "runtime-main.js.map": "/Butsko/static/js/runtime-main.5d03c7a8.js.map",
+    "static/js/2.da0573aa.chunk.js": "/Butsko/static/js/2.da0573aa.chunk.js",
+    "static/js/2.da0573aa.chunk.js.map": "/Butsko/static/js/2.da0573aa.chunk.js.map",
+    "index.html": "/Butsko/index.html",
+    "precache-manifest.6f892793663824f025e6e0ef75adb4dc.js": "/Butsko/precache-manifest.6f892793663824f025e6e0ef75adb4dc.js",
+    "service-worker.js": "/Butsko/service-worker.js",
+    "static/css/main.86c3638e.chunk.css.map": "/Butsko/static/css/main.86c3638e.chunk.css.map",
+    "static/js/2.da0573aa.chunk.js.LICENSE.txt": "/Butsko/static/js/2.da0573aa.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Butsko/static/media/1.d55a49ee.jpg",
+    "static/media/logo.svg": "/Butsko/static/media/logo.5d5d9eef.svg",
+    "static/media/logo2.png": "/Butsko/static/media/logo2.5ef5224d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d03c7a8.js",
+    "static/js/2.da0573aa.chunk.js",
+    "static/css/main.86c3638e.chunk.css",
+    "static/js/main.191918d7.chunk.js"
+  ]
+}
