@@ -1,6 +1,6 @@
 import React from 'react'
 import './topheader.css'
-import logo from '../images/logo2.png'
+import logo from '../images/logo22.png'
 
 const TopHeader = () => {
     return (
